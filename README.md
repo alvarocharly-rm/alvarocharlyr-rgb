@@ -1,4 +1,4 @@
-# ¡Hola! Soy Alvaro Charly 👋
+# ¡Hola! Soy Alvaro Charly 
 
 Soy Ingeniero en Sistemas Electrónicos radicado en Santa Cruz, Bolivia. Me dedico a resolver problemas del mundo real conectando el hardware industrial con el software. Básicamente, hago que las máquinas y los procesos se comuniquen y sean más inteligentes.
 
